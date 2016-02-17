@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1455726353405">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1455727259987">
   <folder name="css">
     <file name="site_global.css" crc="4139544154"/>
     <file name="master_a-master.css" crc="110548643" ref="gallery:live:bio:music:index"/>
@@ -42,9 +42,9 @@
     <file name="wash02-u2313-r-fr.png" crc="359075823" ref="gallery"/>
     <file name="wash02.jpg" crc="4045189913" ref="gallery"/>
   </folder>
-  <file name="index.html" crc="236197204" seo="true" mt="1455725972113" redirect="true"/>
-  <file name="bio.html" crc="358870862" seo="true" mt="1455666374637" redirect="true"/>
-  <file name="gallery.html" crc="3868222584" seo="true" mt="1455663667061" redirect="true"/>
-  <file name="music.html" crc="461927437" seo="true" mt="1455726318720" redirect="true"/>
-  <file name="live.html" crc="22544946" seo="true" mt="1455725773907" redirect="true"/>
+  <file name="index.html" crc="3956611644" seo="true" mt="1455727246497" redirect="true"/>
+  <file name="bio.html" crc="306831763" seo="true" mt="1455727246497" redirect="true"/>
+  <file name="gallery.html" crc="268455568" seo="true" mt="1455727246497" redirect="true"/>
+  <file name="music.html" crc="200063546" seo="true" mt="1455727246497" redirect="true"/>
+  <file name="live.html" crc="375006308" seo="true" mt="1455727246497" redirect="true"/>
 </manifest>
