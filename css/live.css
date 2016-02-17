@@ -1,7 +1,7 @@
 .version.live /* version checker */
 {
-	color: #00000A;
-	background-color: #7017DC;
+	color: #000001;
+	background-color: #55E314;
 }
 
 #muse_css_mq
@@ -12,24 +12,15 @@
 #page
 {
 	z-index: 1;
-	width: 1020px;
-	min-height: 474px;
+	width: 980px;
+	min-height: 481.65px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
-	padding-bottom: 75px;
 	margin-left: auto;
 	margin-right: auto;
-}
-
-#pu2406
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 5px;
-	margin-left: 20px;
+	padding: 5px 20px 62.35000000000002px;
 }
 
 #u2406
@@ -223,7 +214,7 @@
 
 #pamphletu2486
 {
-	z-index: 34;
+	z-index: 38;
 	width: 0.01px;
 	height: 165px;
 	padding-bottom: 29px;
@@ -234,7 +225,7 @@
 
 #u2495
 {
-	z-index: 35;
+	z-index: 39;
 	width: 60px;
 	position: relative;
 	margin-right: -10000px;
@@ -287,12 +278,12 @@
 
 #u2487popup
 {
-	z-index: 37;
+	z-index: 41;
 }
 
 #u2488
 {
-	z-index: 38;
+	z-index: 42;
 	width: 611px;
 	height: 194px;
 	border-width: 0px;
@@ -304,7 +295,7 @@
 
 #u2010-12
 {
-	z-index: 39;
+	z-index: 43;
 	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
@@ -343,6 +334,13 @@
 	cursor: pointer;
 }
 
+#pu2053
+{
+	width: 0.01px;
+	margin-left: 284px;
+	margin-top: -46px;
+}
+
 #u2053
 {
 	z-index: 28;
@@ -350,7 +348,6 @@
 	height: 58px;
 	position: relative;
 	margin-right: -10000px;
-	left: 304px;
 }
 
 #u2054
@@ -360,7 +357,7 @@
 	height: 58px;
 	position: relative;
 	margin-right: -10000px;
-	left: 392px;
+	left: 88px;
 }
 
 #u2052
@@ -370,7 +367,7 @@
 	height: 58px;
 	position: relative;
 	margin-right: -10000px;
-	left: 480px;
+	left: 176px;
 }
 
 #u2055
@@ -380,7 +377,7 @@
 	height: 58px;
 	position: relative;
 	margin-right: -10000px;
-	left: 568px;
+	left: 264px;
 }
 
 #u2064
@@ -390,7 +387,7 @@
 	height: 58px;
 	position: relative;
 	margin-right: -10000px;
-	left: 656px;
+	left: 352px;
 }
 
 #u2053:hover,#u2054:hover,#u2052:hover,#u2055:hover,#u2064:hover
@@ -399,6 +396,16 @@
 	height: 58px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
+}
+
+#u2598-4
+{
+	z-index: 34;
+	width: 239px;
+	min-height: 30px;
+	margin-left: 370px;
+	margin-top: 13px;
+	position: relative;
 }
 
 .html
@@ -410,11 +417,5 @@ body
 {
 	position: relative;
 	min-width: 1020px;
-}
-
-.verticalspacer
-{
-	margin-bottom: -71px;
-	min-height: 55px;
 }
 
