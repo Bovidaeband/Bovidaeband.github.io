@@ -1,7 +1,7 @@
 .version.music /* version checker */
 {
-	color: #000011;
-	background-color: #1439F8;
+	color: #000007;
+	background-color: #72719E;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 814px;
+	min-height: 829px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -26,6 +26,7 @@
 #pu2406
 {
 	width: 0.01px;
+	padding-bottom: 1px;
 	margin-right: -10000px;
 	margin-top: 5px;
 	margin-left: 20px;
@@ -225,9 +226,10 @@
 	z-index: 34;
 	width: 0.01px;
 	height: 507px;
-	padding-bottom: 1px;
-	margin-left: 175px;
-	margin-top: 5px;
+	padding-bottom: 34px;
+	margin-left: 196px;
+	top: -1px;
+	margin-bottom: -1px;
 	position: relative;
 }
 
@@ -238,6 +240,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 462px;
+	left: 84px;
 }
 
 #u2142
@@ -280,9 +283,8 @@
 #u2133
 {
 	position: absolute;
-	width: 579px;
+	width: 589px;
 	background-color: transparent;
-	left: 26px;
 }
 
 #u2133popup
@@ -293,8 +295,8 @@
 #u2134
 {
 	z-index: 38;
-	width: 579px;
-	height: 508px;
+	width: 589px;
+	height: 541px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -302,7 +304,7 @@
 	position: relative;
 }
 
-#u2129
+#u2594
 {
 	z-index: 39;
 	width: 579px;
@@ -311,33 +313,47 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 24px;
+	left: 5px;
 }
 
-#u1950
+#u2129
 {
 	z-index: 40;
-	width: 470px;
+	width: 579px;
+	border-width: 0px;
+	border-color: transparent;
 	background-color: transparent;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 38px;
-	left: 56px;
 }
 
-#u1978-4
+#u1978-6
 {
-	z-index: 42;
+	z-index: 41;
 	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
 	text-transform: uppercase;
-	line-height: 22px;
 	text-align: center;
 	color: #FFFFFF;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;
 	position: relative;
 	margin-right: -10000px;
+}
+
+#u2590
+{
+	z-index: 47;
+	width: 435px;
+	min-height: 380px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-left: 72px;
+	margin-top: 6px;
+	position: relative;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
@@ -417,6 +433,6 @@ body
 .verticalspacer
 {
 	margin-bottom: -71px;
-	min-height: 95px;
+	min-height: 82px;
 }
 

@@ -1,7 +1,7 @@
 .version.gallery /* version checker */
 {
-	color: #000003;
-	background-color: #06DFD9;
+	color: #000017;
+	background-color: #5717A8;
 }
 
 #muse_css_mq
@@ -412,9 +412,9 @@
 	min-height: 46px;
 	background-color: transparent;
 	text-transform: uppercase;
-	line-height: 22px;
 	text-align: left;
 	color: #000000;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;
 	position: relative;
@@ -525,9 +525,9 @@
 	min-height: 46px;
 	background-color: transparent;
 	text-transform: uppercase;
-	line-height: 22px;
 	text-align: left;
 	color: #000000;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;
 	position: relative;
@@ -633,9 +633,9 @@
 	min-height: 46px;
 	background-color: transparent;
 	text-transform: uppercase;
-	line-height: 22px;
 	text-align: left;
 	color: #000000;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;
 	position: relative;

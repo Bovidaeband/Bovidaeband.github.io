@@ -1,7 +1,7 @@
 .version.live /* version checker */
 {
-	color: #00001D;
-	background-color: #F8FCEF;
+	color: #00000A;
+	background-color: #7017DC;
 }
 
 #muse_css_mq
@@ -26,6 +26,7 @@
 #pu2406
 {
 	width: 0.01px;
+	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 5px;
 	margin-left: 20px;
@@ -224,7 +225,8 @@
 {
 	z-index: 34;
 	width: 0.01px;
-	height: 166px;
+	height: 165px;
+	padding-bottom: 29px;
 	margin-left: 184px;
 	margin-top: 18px;
 	position: relative;
@@ -292,7 +294,7 @@
 {
 	z-index: 38;
 	width: 611px;
-	height: 144px;
+	height: 194px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -300,30 +302,40 @@
 	position: relative;
 }
 
-#u2010-9
+#u2010-12
 {
 	z-index: 39;
 	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
-	line-height: 22px;
 	color: #FFFFFF;
+	line-height: 22px;
 	text-transform: uppercase;
-	font-family: maven-pro, sans-serif;
-	font-weight: 900;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 18px;
 }
 
-#u2010-2,#u2010-3,#u2010-5
+#u2010-2,#u2010-3
 {
 	text-align: left;
+	font-family: maven-pro, sans-serif;
+	font-weight: 900;
 }
 
-#u2010-6,#u2010-7
+#u2010-5,#u2010-6,#u2010-8
+{
+	text-align: left;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u2010-9,#u2010-10
 {
 	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 900;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
@@ -403,6 +415,6 @@ body
 .verticalspacer
 {
 	margin-bottom: -71px;
-	min-height: 83px;
+	min-height: 55px;
 }
 

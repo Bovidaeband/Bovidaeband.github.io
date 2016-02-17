@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FE;
-	background-color: #BC48DB;
+	color: #0000E9;
+	background-color: #BE4048;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 380px;
+	min-height: 706px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -26,7 +26,6 @@
 #pu2406
 {
 	width: 0.01px;
-	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-top: 5px;
 	margin-left: 20px;
@@ -221,21 +220,126 @@
 	margin: 0px -10000px 0px 0px;
 }
 
-#u392-4
+#pamphletu2542
 {
 	z-index: 34;
+	width: 0.01px;
+	height: 394px;
+	margin-left: 200px;
+	margin-top: 27px;
+	position: relative;
+}
+
+#u2547
+{
+	z-index: 35;
+	width: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 349px;
+}
+
+#u2549
+{
+	position: absolute;
+	width: 60px;
+	height: 45px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u2549
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u2549.PamphletThumbSelected
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	width: 60px;
+	height: 45px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u2549.PamphletThumbSelected
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u2543
+{
+	position: absolute;
+	width: 580px;
+	background-color: transparent;
+}
+
+#u2543popup
+{
+	z-index: 37;
+}
+
+#u2546
+{
+	z-index: 38;
+	width: 580px;
+	height: 344px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2539
+{
+	z-index: 39;
+	width: 579px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 6px;
+}
+
+#u392-4
+{
+	z-index: 40;
 	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
 	text-transform: uppercase;
-	line-height: 22px;
 	text-align: center;
 	color: #FFFFFF;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;
-	margin-left: 200px;
-	margin-top: 22px;
 	position: relative;
+}
+
+#u2532
+{
+	z-index: 44;
+	width: 386px;
+	background-color: transparent;
+	margin-left: 97px;
+	margin-top: 15px;
+	position: relative;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
 }
 
 #u2053
@@ -310,6 +414,6 @@ body
 .verticalspacer
 {
 	margin-bottom: -71px;
-	min-height: 105px;
+	min-height: 78px;
 }
 
