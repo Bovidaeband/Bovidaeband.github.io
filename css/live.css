@@ -1,7 +1,7 @@
 .version.live /* version checker */
 {
-	color: #000001;
-	background-color: #55E314;
+	color: #0000FE;
+	background-color: #E8869F;
 }
 
 #muse_css_mq
@@ -13,14 +13,14 @@
 {
 	z-index: 1;
 	width: 980px;
-	min-height: 481.65px;
+	min-height: 1045.65px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 5px 20px 62.35000000000002px;
+	padding: 5px 20px 62.34999999999991px;
 }
 
 #u2406
@@ -217,9 +217,9 @@
 	z-index: 38;
 	width: 0.01px;
 	height: 165px;
-	padding-bottom: 29px;
-	margin-left: 184px;
-	margin-top: 18px;
+	padding-bottom: 557px;
+	margin-left: 173px;
+	margin-top: 12px;
 	position: relative;
 }
 
@@ -272,7 +272,7 @@
 #u2487
 {
 	position: absolute;
-	width: 611px;
+	width: 634px;
 	background-color: transparent;
 }
 
@@ -284,8 +284,8 @@
 #u2488
 {
 	z-index: 42;
-	width: 611px;
-	height: 194px;
+	width: 634px;
+	height: 722px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -293,18 +293,30 @@
 	position: relative;
 }
 
-#u2010-12
+#u2624
 {
 	z-index: 43;
 	width: 579px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 28px;
+}
+
+#u2010-38
+{
+	z-index: 44;
+	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 22px;
+	color: #FFFFFF;
 	text-transform: uppercase;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 18px;
 }
 
 #u2010-2,#u2010-3
@@ -314,7 +326,7 @@
 	font-weight: 900;
 }
 
-#u2010-5,#u2010-6,#u2010-8
+#u2010-5,#u2010-6,#u2010-8,#u2010-9,#u2010-10,#u2010-11,#u2010-12,#u2010-13,#u2010-14,#u2010-15,#u2010-16,#u2010-17,#u2010-18,#u2010-19,#u2010-20,#u2010-21,#u2010-22,#u2010-23,#u2010-24,#u2010-25,#u2010-26,#u2010-27,#u2010-28,#u2010-29,#u2010-30,#u2010-31,#u2010-32,#u2010-34
 {
 	text-align: left;
 	font-family: maven-pro, sans-serif;
@@ -322,11 +334,27 @@
 	font-style: normal;
 }
 
-#u2010-9,#u2010-10
+#u2010-35,#u2010-36
 {
 	text-align: center;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;
+}
+
+#u2614
+{
+	z-index: 82;
+	width: 347px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 125px;
+	left: 115px;
+}
+
+#u2614_img
+{
+	padding-right: 1px;
 }
 
 .PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
@@ -338,7 +366,7 @@
 {
 	width: 0.01px;
 	margin-left: 284px;
-	margin-top: -46px;
+	margin-top: -4px;
 }
 
 #u2053

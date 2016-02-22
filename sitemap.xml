@@ -2,13 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bovidae.co.uk/images/u1608_states.png</loc>
-    <lastmod>2016-02-18</lastmod>
+    <lastmod>2016-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bovidae.co.uk/images/cowsillhouettesmall.png</loc>
-    <lastmod>2016-02-18</lastmod>
+    <lastmod>2016-02-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bovidae.co.uk/images/scifi.jpg</loc>
+    <lastmod>2016-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -38,7 +44,7 @@
   </url>
   <url>
     <loc>http://bovidae.co.uk/live.html</loc>
-    <lastmod>2016-02-17</lastmod>
+    <lastmod>2016-02-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

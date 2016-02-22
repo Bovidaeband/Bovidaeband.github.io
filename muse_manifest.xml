@@ -1,10 +1,10 @@
-<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1455792579488">
+<manifest alg="2" build="2015.1.0.342" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1456167964958">
   <folder name="css">
     <file name="site_global.css" crc="4139544154"/>
     <file name="master_a-master.css" crc="87052925" ref="gallery:live:bio:music:index"/>
     <file name="gallery.css" crc="171419343" ref="gallery"/>
-    <file name="live.css" crc="22405908" ref="live"/>
-    <file name="iefonts_live.css" crc="77636506" ref="live"/>
+    <file name="live.css" crc="4276651679" ref="live"/>
+    <file name="iefonts_live.css" crc="19854247" ref="live"/>
     <file name="bio.css" crc="513538737" ref="bio"/>
     <file name="iefonts_bio.css" crc="4153163570" ref="bio"/>
     <file name="music.css" crc="371265172" ref="music"/>
@@ -30,11 +30,11 @@
   <folder name="images">
     <file name="u1608_states.png" crc="4068076287" seo="true" ref="index:bio:gallery:music:live"/>
     <file name="cowsillhouettesmall.png" crc="375083370" seo="true" ref="bio"/>
-    <file name="facebook.png" crc="317936629" ref="index:gallery"/>
-    <file name="vimeo.png" crc="523308923" ref="index:gallery"/>
-    <file name="twitter.png" crc="4102706121" ref="index:gallery"/>
-    <file name="youtube.png" crc="126262856" ref="index:gallery"/>
-    <file name="soundcloud.png" crc="4153788143" ref="index:gallery"/>
+    <file name="facebook.png" crc="317936629" ref="index:gallery:live"/>
+    <file name="vimeo.png" crc="523308923" ref="index:gallery:live"/>
+    <file name="twitter.png" crc="4102706121" ref="index:gallery:live"/>
+    <file name="youtube.png" crc="126262856" ref="index:gallery:live"/>
+    <file name="soundcloud.png" crc="4153788143" ref="index:gallery:live"/>
     <file name="20151002_214143-u735-fr.jpg" crc="3839011474" ref="gallery"/>
     <file name="20151002_214143-u735-r-fr.png" crc="3809233680" ref="gallery"/>
     <file name="20151002_214143.jpg" crc="3841328959" ref="gallery"/>
@@ -44,11 +44,12 @@
     <file name="wash02-u2313-fr.jpg" crc="4025765188" ref="gallery"/>
     <file name="wash02-u2313-r-fr.png" crc="359075823" ref="gallery"/>
     <file name="wash02.jpg" crc="4045189913" ref="gallery"/>
-    <file name="favicon.ico" crc="252360425" ref="index:gallery"/>
+    <file name="favicon.ico" crc="252360425" ref="index:gallery:live"/>
+    <file name="scifi.jpg" crc="168519837" seo="true" ref="live"/>
   </folder>
   <file name="index.html" crc="4160771552" seo="true" mt="1455792045756" redirect="true"/>
   <file name="bio.html" crc="3898466731" seo="true" mt="1455729645828" redirect="true"/>
   <file name="gallery.html" crc="151937338" seo="true" mt="1455792555501" redirect="true"/>
   <file name="music.html" crc="85629265" seo="true" mt="1455729645828" redirect="true"/>
-  <file name="live.html" crc="379244558" seo="true" mt="1455729645828" redirect="true"/>
+  <file name="live.html" crc="3819324402" seo="true" mt="1456167958349" redirect="true"/>
 </manifest>
