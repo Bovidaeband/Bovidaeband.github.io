@@ -1,7 +1,7 @@
 .version.music /* version checker */
 {
-	color: #000016;
-	background-color: #210E94;
+	color: #0000F7;
+	background-color: #4F2C6F;
 }
 
 #muse_css_mq
@@ -318,16 +318,16 @@
 	position: relative;
 }
 
-#u1978-6
+#u1978-4
 {
 	z-index: 45;
 	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
+	line-height: 22px;
 	text-transform: uppercase;
 	text-align: center;
 	color: #FFFFFF;
-	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;
 	position: relative;
@@ -336,7 +336,7 @@
 
 #u2590
 {
-	z-index: 51;
+	z-index: 49;
 	width: 435px;
 	min-height: 380px;
 	border-width: 0px;

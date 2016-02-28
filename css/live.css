@@ -1,7 +1,7 @@
 .version.live /* version checker */
 {
-	color: #0000F0;
-	background-color: #7A72A8;
+	color: #0000FE;
+	background-color: #E8869F;
 }
 
 #muse_css_mq
@@ -312,9 +312,9 @@
 	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #FFFFFF;
 	text-transform: uppercase;
-	line-height: 22px;
 	position: relative;
 	margin-right: -10000px;
 }
