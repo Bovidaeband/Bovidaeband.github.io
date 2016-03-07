@@ -1,7 +1,7 @@
 .version.live /* version checker */
 {
-	color: #0000FE;
-	background-color: #E8869F;
+	color: #0000F6;
+	background-color: #38316A;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 980px;
-	min-height: 1045.65px;
+	min-height: 1078.65px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -217,7 +217,7 @@
 	z-index: 38;
 	width: 0.01px;
 	height: 165px;
-	padding-bottom: 557px;
+	padding-bottom: 601px;
 	margin-left: 173px;
 	margin-top: 12px;
 	position: relative;
@@ -285,7 +285,7 @@
 {
 	z-index: 42;
 	width: 634px;
-	height: 722px;
+	height: 766px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -306,7 +306,7 @@
 	left: 28px;
 }
 
-#u2010-38
+#u2010-41
 {
 	z-index: 44;
 	width: 579px;
@@ -326,7 +326,7 @@
 	font-weight: 900;
 }
 
-#u2010-5,#u2010-6,#u2010-8,#u2010-9,#u2010-10,#u2010-11,#u2010-12,#u2010-13,#u2010-14,#u2010-15,#u2010-16,#u2010-17,#u2010-18,#u2010-19,#u2010-20,#u2010-21,#u2010-22,#u2010-23,#u2010-24,#u2010-25,#u2010-26,#u2010-27,#u2010-28,#u2010-29,#u2010-30,#u2010-31,#u2010-32,#u2010-34
+#u2010-5,#u2010-6,#u2010-8,#u2010-9,#u2010-10,#u2010-11,#u2010-12,#u2010-13,#u2010-14,#u2010-15,#u2010-16,#u2010-17,#u2010-18,#u2010-19,#u2010-20,#u2010-21,#u2010-22,#u2010-23,#u2010-24,#u2010-25,#u2010-26,#u2010-27,#u2010-28,#u2010-29,#u2010-30,#u2010-31,#u2010-32,#u2010-34,#u2010-35,#u2010-37
 {
 	text-align: left;
 	font-family: maven-pro, sans-serif;
@@ -334,7 +334,7 @@
 	font-style: normal;
 }
 
-#u2010-35,#u2010-36
+#u2010-38,#u2010-39
 {
 	text-align: center;
 	font-family: maven-pro, sans-serif;
@@ -343,13 +343,13 @@
 
 #u2614
 {
-	z-index: 82;
+	z-index: 85;
 	width: 347px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 125px;
-	left: 115px;
+	margin-top: 128px;
+	left: 151px;
 }
 
 #u2614_img
@@ -366,7 +366,7 @@
 {
 	width: 0.01px;
 	margin-left: 284px;
-	margin-top: -4px;
+	margin-top: -15px;
 }
 
 #u2053
