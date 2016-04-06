@@ -1,30 +1,30 @@
-<manifest alg="2" build="2015.1.1.343" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1457964967286">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1459951205526">
   <folder name="css">
     <file name="site_global.css" crc="4139544154"/>
-    <file name="master_a-master.css" crc="159637955" ref="gallery:live:bio:music:index"/>
-    <file name="gallery.css" crc="338154155" ref="gallery"/>
-    <file name="iefonts_gallery.css" crc="29913438" ref="gallery"/>
-    <file name="live.css" crc="14826671" ref="live"/>
-    <file name="iefonts_live.css" crc="4121349152" ref="live"/>
-    <file name="bio.css" crc="3797852409" ref="bio"/>
+    <file name="master_a-master.css" crc="159637955" ref="live:bio:music:index:gallery"/>
+    <file name="live.css" crc="4124822417" ref="live"/>
+    <file name="iefonts_live.css" crc="50736231" ref="live"/>
+    <file name="bio.css" crc="466491827" ref="bio"/>
     <file name="iefonts_bio.css" crc="4153163570" ref="bio"/>
-    <file name="music.css" crc="468821278" ref="music"/>
+    <file name="music.css" crc="163172994" ref="music"/>
     <file name="iefonts_music.css" crc="4222631051" ref="music"/>
     <file name="index.css" crc="4241877215" ref="index"/>
     <file name="iefonts_index.css" crc="3828707444" ref="index"/>
+    <file name="gallery.css" crc="321850759" ref="gallery"/>
+    <file name="iefonts_gallery.css" crc="29913438" ref="gallery"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="484278746" ref="index:bio:gallery:music:live"/>
-    <file name="museutils.js" crc="531812214" ref="index:bio:gallery:music:live"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:bio:gallery:music:live"/>
+    <file name="museutils.js" crc="3790713428" ref="index:bio:gallery:music:live"/>
     <file name="whatinput.js" crc="84559013" ref="index:bio:gallery:music:live"/>
-    <file name="jquery.musemenu.js" crc="3902934130" ref="index:bio:gallery:music:live"/>
-    <file name="webpro.js" crc="4156477058" ref="index:bio:gallery:music:live"/>
-    <file name="musewpslideshow.js" crc="4058618124" ref="index:bio:gallery:music:live"/>
-    <file name="jquery.museoverlay.js" crc="3810062583" ref="index:bio:gallery:music:live"/>
-    <file name="touchswipe.js" crc="4174436727" ref="index:bio:gallery:music:live"/>
-    <file name="jquery.watch.js" crc="3866665977" ref="index:bio:gallery:music:live"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index:bio:gallery:music:live"/>
+    <file name="webpro.js" crc="329496574" ref="index:bio:gallery:music:live"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index:bio:gallery:music:live"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index:bio:gallery:music:live"/>
+    <file name="touchswipe.js" crc="497316881" ref="index:bio:gallery:music:live"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:bio:gallery:music:live"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:bio:gallery:music:live"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="120190942" ref="gallery"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="gallery"/>
     <file name="pie.js" crc="3827607177" ref="gallery"/>
   </folder>
   <folder name="images">
@@ -45,12 +45,11 @@
     <file name="wash02-u2313-fr.jpg" crc="4025765188" ref="gallery"/>
     <file name="wash02-u2313-r-fr.png" crc="359075823" ref="gallery"/>
     <file name="wash02.jpg" crc="4045189913" ref="gallery"/>
-    <file name="scifi.jpg" crc="168519837" seo="true" ref="live"/>
     <file name="12498464_775921419219538_1824902175_n.jpg" crc="4165747562" seo="true" ref="live"/>
   </folder>
-  <file name="index.html" crc="3766079829" seo="true" mt="1455792045756" redirect="true"/>
-  <file name="bio.html" crc="4021859083" seo="true" mt="1455729645828" redirect="true"/>
-  <file name="gallery.html" crc="4169834576" seo="true" mt="1455792555501" redirect="true"/>
-  <file name="music.html" crc="4027927991" seo="true" mt="1456682570163" redirect="true"/>
-  <file name="live.html" crc="4222667064" seo="true" mt="1457964939007" redirect="true"/>
+  <file name="index.html" crc="4140466534" seo="true" mt="1455792045756" redirect="true"/>
+  <file name="bio.html" crc="505723653" seo="true" mt="1455729645828" redirect="true"/>
+  <file name="gallery.html" crc="376195050" seo="true" mt="1455792555501" redirect="true"/>
+  <file name="music.html" crc="3799525451" seo="true" mt="1456682570163" redirect="true"/>
+  <file name="live.html" crc="234463774" seo="true" mt="1459951194782" redirect="true"/>
 </manifest>

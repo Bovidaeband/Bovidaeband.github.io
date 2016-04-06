@@ -1,7 +1,7 @@
 .version.bio /* version checker */
 {
-	color: #0000E2;
-	background-color: #5EA0F9;
+	color: #00001B;
+	background-color: #CE19B3;
 }
 
 #muse_css_mq
@@ -274,9 +274,9 @@
 	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #FFFFFF;
 	text-transform: uppercase;
-	line-height: 22px;
 	text-align: center;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;
@@ -290,9 +290,9 @@
 	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #FFFFFF;
 	text-transform: uppercase;
-	line-height: 22px;
 	text-align: center;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;

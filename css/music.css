@@ -1,7 +1,7 @@
 .version.music /* version checker */
 {
-	color: #00001B;
-	background-color: #F1A51E;
+	color: #000009;
+	background-color: #B9D282;
 }
 
 #muse_css_mq
@@ -324,9 +324,9 @@
 	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
+	line-height: 22px;
 	color: #FFFFFF;
 	text-transform: uppercase;
-	line-height: 22px;
 	text-align: center;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;

@@ -1,7 +1,7 @@
 .version.live /* version checker */
 {
-	color: #000000;
-	background-color: #E23CAF;
+	color: #0000F5;
+	background-color: #DBCB91;
 }
 
 #muse_css_mq
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1020px;
-	min-height: 1723.65px;
+	min-height: 1153.65px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -225,7 +225,7 @@
 	z-index: 38;
 	width: 0.01px;
 	height: 165px;
-	padding-bottom: 1090px;
+	padding-bottom: 582px;
 	margin-left: 193px;
 	margin-top: 12px;
 	position: relative;
@@ -293,7 +293,7 @@
 {
 	z-index: 42;
 	width: 841px;
-	height: 1255px;
+	height: 747px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -314,27 +314,27 @@
 	left: 28px;
 }
 
-#u2010-41
+#u2010-39
 {
 	z-index: 44;
 	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
-	text-transform: uppercase;
 	line-height: 22px;
 	color: #FFFFFF;
+	text-transform: uppercase;
 	position: relative;
 	margin-right: -10000px;
 }
 
-#u2010-2,#u2010-3
+#u2010-2
 {
 	text-align: left;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;
 }
 
-#u2010-5,#u2010-6,#u2010-8,#u2010-9,#u2010-10,#u2010-11,#u2010-12,#u2010-13,#u2010-14,#u2010-15,#u2010-16,#u2010-17,#u2010-18,#u2010-19,#u2010-20,#u2010-21,#u2010-22,#u2010-23,#u2010-24,#u2010-25,#u2010-26,#u2010-27,#u2010-28,#u2010-29,#u2010-30,#u2010-31,#u2010-32,#u2010-34,#u2010-35,#u2010-37
+#u2010-3,#u2010-5,#u2010-6,#u2010-8,#u2010-9,#u2010-10,#u2010-11,#u2010-12,#u2010-13,#u2010-14,#u2010-15,#u2010-16,#u2010-17,#u2010-18,#u2010-19,#u2010-20,#u2010-21,#u2010-22,#u2010-23,#u2010-24,#u2010-25,#u2010-26,#u2010-27,#u2010-28,#u2010-29,#u2010-30,#u2010-31,#u2010-32,#u2010-33,#u2010-35
 {
 	text-align: left;
 	font-family: maven-pro, sans-serif;
@@ -342,36 +342,25 @@
 	font-style: normal;
 }
 
-#u2010-38,#u2010-39
+#u2010-36,#u2010-37
 {
 	text-align: center;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;
 }
 
-#u2614
-{
-	z-index: 85;
-	width: 347px;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 128px;
-	left: 151px;
-}
-
 #u2627
 {
-	z-index: 87;
+	z-index: 83;
 	width: 348px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 735px;
-	left: 178px;
+	margin-top: 159px;
+	left: 143px;
 }
 
-#u2614_img,#u2627_img
+#u2627_img
 {
 	padding-right: 1px;
 }
@@ -385,7 +374,7 @@
 {
 	width: 0.01px;
 	margin-left: 304px;
-	margin-top: 74px;
+	margin-top: 12px;
 }
 
 #u2053
