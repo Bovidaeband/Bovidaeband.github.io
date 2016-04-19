@@ -1,9 +1,9 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1459951350379">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1461060057113">
   <folder name="css">
     <file name="site_global.css" crc="4139544154"/>
     <file name="master_a-master.css" crc="159637955" ref="live:bio:music:index:gallery"/>
-    <file name="live.css" crc="4026819342" ref="live"/>
-    <file name="iefonts_live.css" crc="50736231" ref="live"/>
+    <file name="live.css" crc="63928934" ref="live"/>
+    <file name="iefonts_live.css" crc="512821813" ref="live"/>
     <file name="bio.css" crc="466491827" ref="bio"/>
     <file name="iefonts_bio.css" crc="4153163570" ref="bio"/>
     <file name="music.css" crc="163172994" ref="music"/>
@@ -51,5 +51,5 @@
   <file name="bio.html" crc="505723653" seo="true" mt="1455729645828" redirect="true"/>
   <file name="gallery.html" crc="376195050" seo="true" mt="1455792555501" redirect="true"/>
   <file name="music.html" crc="3799525451" seo="true" mt="1456682570163" redirect="true"/>
-  <file name="live.html" crc="472459731" seo="true" mt="1459951344614" redirect="true"/>
+  <file name="live.html" crc="4208706785" seo="true" mt="1461060049070" redirect="true"/>
 </manifest>

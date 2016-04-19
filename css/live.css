@@ -1,7 +1,7 @@
 .version.live /* version checker */
 {
-	color: #0000F0;
-	background-color: #04630E;
+	color: #000003;
+	background-color: #CF7A66;
 }
 
 #muse_css_mq
@@ -225,7 +225,7 @@
 	z-index: 38;
 	width: 0.01px;
 	height: 165px;
-	padding-bottom: 582px;
+	padding-bottom: 560px;
 	margin-left: 193px;
 	margin-top: 12px;
 	position: relative;
@@ -293,7 +293,7 @@
 {
 	z-index: 42;
 	width: 841px;
-	height: 747px;
+	height: 725px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
@@ -314,7 +314,7 @@
 	left: 28px;
 }
 
-#u2010-39
+#u2010-37
 {
 	z-index: 44;
 	width: 579px;
@@ -334,7 +334,7 @@
 	font-weight: 900;
 }
 
-#u2010-3,#u2010-5,#u2010-6,#u2010-8,#u2010-9,#u2010-10,#u2010-11,#u2010-12,#u2010-13,#u2010-14,#u2010-15,#u2010-16,#u2010-17,#u2010-18,#u2010-19,#u2010-20,#u2010-21,#u2010-22,#u2010-23,#u2010-24,#u2010-25,#u2010-26,#u2010-27,#u2010-28,#u2010-29,#u2010-30,#u2010-31,#u2010-32,#u2010-33,#u2010-35
+#u2010-3,#u2010-5,#u2010-6,#u2010-8,#u2010-9,#u2010-10,#u2010-11,#u2010-12,#u2010-13,#u2010-14,#u2010-15,#u2010-16,#u2010-17,#u2010-18,#u2010-19,#u2010-20,#u2010-21,#u2010-22,#u2010-23,#u2010-24,#u2010-25,#u2010-26,#u2010-27,#u2010-28,#u2010-29,#u2010-30,#u2010-31,#u2010-32,#u2010-33
 {
 	text-align: left;
 	font-family: maven-pro, sans-serif;
@@ -342,7 +342,7 @@
 	font-style: normal;
 }
 
-#u2010-36,#u2010-37
+#u2010-34,#u2010-35
 {
 	text-align: center;
 	font-family: maven-pro, sans-serif;
@@ -351,7 +351,7 @@
 
 #u2627
 {
-	z-index: 83;
+	z-index: 81;
 	width: 348px;
 	background-color: transparent;
 	position: relative;
@@ -374,7 +374,7 @@
 {
 	width: 0.01px;
 	margin-left: 304px;
-	margin-top: 12px;
+	margin-top: 34px;
 }
 
 #u2053
