@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1461060057113">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1461165311718">
   <folder name="css">
     <file name="site_global.css" crc="4139544154"/>
     <file name="master_a-master.css" crc="159637955" ref="live:bio:music:index:gallery"/>
@@ -10,7 +10,7 @@
     <file name="iefonts_music.css" crc="4222631051" ref="music"/>
     <file name="index.css" crc="4241877215" ref="index"/>
     <file name="iefonts_index.css" crc="3828707444" ref="index"/>
-    <file name="gallery.css" crc="321850759" ref="gallery"/>
+    <file name="gallery.css" crc="3982170289" ref="gallery"/>
     <file name="iefonts_gallery.css" crc="29913438" ref="gallery"/>
   </folder>
   <folder name="scripts">
@@ -28,13 +28,13 @@
     <file name="pie.js" crc="3827607177" ref="gallery"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="252360425" ref="index:live"/>
+    <file name="favicon.ico" crc="252360425" ref="index:live:gallery"/>
     <file name="u1608_states.png" crc="4068076287" seo="true" ref="index:bio:gallery:music:live"/>
-    <file name="facebook.png" crc="317936629" ref="index:live"/>
-    <file name="vimeo.png" crc="523308923" ref="index:live"/>
-    <file name="twitter.png" crc="4102706121" ref="index:live"/>
-    <file name="youtube.png" crc="126262856" ref="index:live"/>
-    <file name="soundcloud.png" crc="4153788143" ref="index:live"/>
+    <file name="facebook.png" crc="317936629" ref="index:live:gallery"/>
+    <file name="vimeo.png" crc="523308923" ref="index:live:gallery"/>
+    <file name="twitter.png" crc="4102706121" ref="index:live:gallery"/>
+    <file name="youtube.png" crc="126262856" ref="index:live:gallery"/>
+    <file name="soundcloud.png" crc="4153788143" ref="index:live:gallery"/>
     <file name="cowsillhouettesmall.png" crc="375083370" seo="true" ref="bio"/>
     <file name="20151002_214143-u735-fr.jpg" crc="3839011474" ref="gallery"/>
     <file name="20151002_214143-u735-r-fr.png" crc="3809233680" ref="gallery"/>
@@ -49,7 +49,7 @@
   </folder>
   <file name="index.html" crc="4140466534" seo="true" mt="1455792045756" redirect="true"/>
   <file name="bio.html" crc="505723653" seo="true" mt="1455729645828" redirect="true"/>
-  <file name="gallery.html" crc="376195050" seo="true" mt="1455792555501" redirect="true"/>
+  <file name="gallery.html" crc="4069365524" seo="true" mt="1461165282414" redirect="true"/>
   <file name="music.html" crc="3799525451" seo="true" mt="1456682570163" redirect="true"/>
   <file name="live.html" crc="4208706785" seo="true" mt="1461060049070" redirect="true"/>
 </manifest>

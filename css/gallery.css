@@ -1,7 +1,7 @@
 .version.gallery /* version checker */
 {
-	color: #000013;
-	background-color: #2F0D87;
+	color: #0000ED;
+	background-color: #5B18B1;
 }
 
 #muse_css_mq
@@ -13,14 +13,14 @@
 {
 	z-index: 1;
 	width: 980px;
-	min-height: 907.65px;
+	min-height: 1339.65px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
 	background-color: #000000;
 	margin-left: auto;
 	margin-right: auto;
-	padding: 5px 20px 62.35000000000002px;
+	padding: 5px 20px 62.34999999999991px;
 }
 
 #u2406
@@ -217,6 +217,7 @@
 	z-index: 38;
 	width: 0.01px;
 	height: 625px;
+	padding-bottom: 367px;
 	margin-left: 12px;
 	margin-top: 11px;
 	position: relative;
@@ -283,11 +284,14 @@
 #u2363
 {
 	z-index: 42;
-	width: 956px;
-	height: 580px;
+	width: 661px;
+	height: 974px;
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	padding-left: 148px;
+	padding-top: 18px;
+	padding-right: 147px;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -300,9 +304,6 @@
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 18px;
-	left: 148px;
 }
 
 #u2358
@@ -409,10 +410,10 @@
 	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
-	line-height: 22px;
-	color: #000000;
 	text-transform: uppercase;
+	color: #000000;
 	text-align: left;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;
 	margin-top: 9px;
@@ -518,10 +519,10 @@
 	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
-	line-height: 22px;
-	color: #000000;
 	text-transform: uppercase;
+	color: #000000;
 	text-align: left;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;
 	margin-top: 9px;
@@ -622,10 +623,10 @@
 	width: 579px;
 	min-height: 46px;
 	background-color: transparent;
-	line-height: 22px;
-	color: #000000;
 	text-transform: uppercase;
+	color: #000000;
 	text-align: left;
+	line-height: 22px;
 	font-family: maven-pro, sans-serif;
 	font-weight: 900;
 	margin-top: 9px;
@@ -646,11 +647,25 @@
 	position: relative;
 }
 
+#u2637
+{
+	z-index: 76;
+	width: 660px;
+	height: 412px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	max-width: 100000px;
+	min-width: 100px;
+	margin-top: 14px;
+	position: relative;
+}
+
 #pu2053
 {
 	width: 0.01px;
 	margin-left: 284px;
-	margin-top: -44px;
+	margin-top: 21px;
 }
 
 #u2053
