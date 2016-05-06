@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1462552838151">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1462554346693">
   <folder name="css">
     <file name="site_global.css" crc="4139544154"/>
-    <file name="index.css" crc="393237040" ref="index"/>
-    <file name="iefonts_index.css" crc="362252647" ref="index"/>
+    <file name="index.css" crc="69504944" ref="index"/>
+    <file name="iefonts_index.css" crc="88955633" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -37,5 +37,5 @@
     <file name="wash01-u4547-fr.jpg" crc="40130148" ref="index"/>
     <file name="wash01-u4547-r-fr.png" crc="4024002668" ref="index"/>
   </folder>
-  <file name="index.html" crc="4166735191" seo="true" mt="1462552832707" redirect="true"/>
+  <file name="index.html" crc="4146963209" seo="true" mt="1462554327267" redirect="true"/>
 </manifest>
