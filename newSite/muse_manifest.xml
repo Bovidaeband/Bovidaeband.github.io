@@ -1,8 +1,9 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1462554346693">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1462556953681">
   <folder name="css">
     <file name="site_global.css" crc="4139544154"/>
-    <file name="index.css" crc="69504944" ref="index"/>
-    <file name="iefonts_index.css" crc="88955633" ref="index"/>
+    <file name="index.css" crc="3935315909" ref="index"/>
+    <file name="iefonts_index.css" crc="41119582" ref="index"/>
+    <file name="nomq_index.css" crc="4220847095" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
@@ -17,6 +18,8 @@
     <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
     <file name="touchswipe.js" crc="497316881" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="252360425" ref="index"/>
@@ -36,6 +39,8 @@
     <file name="wash02-u4508-r-fr.png" crc="359075823" ref="index"/>
     <file name="wash01-u4547-fr.jpg" crc="40130148" ref="index"/>
     <file name="wash01-u4547-r-fr.png" crc="4024002668" ref="index"/>
+    <file name="mobilemenu.jpg" crc="3996124584" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4146963209" seo="true" mt="1462554327267" redirect="true"/>
+  <file name="index.html" crc="385193727" seo="true" mt="1462556934707" redirect="true"/>
 </manifest>

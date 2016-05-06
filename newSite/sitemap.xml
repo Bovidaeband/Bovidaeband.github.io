@@ -13,6 +13,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://bovidae.co.uk/images/mobilemenu.jpg</loc>
+    <lastmod>2016-05-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://bovidae.co.uk/index.html</loc>
     <lastmod>2016-05-06</lastmod>
     <changefreq>weekly</changefreq>
