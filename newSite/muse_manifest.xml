@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1462551381984">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1462551782555">
   <folder name="css">
     <file name="site_global.css" crc="4139544154"/>
-    <file name="index.css" crc="172321719" ref="index"/>
+    <file name="index.css" crc="393237040" ref="index"/>
     <file name="iefonts_index.css" crc="362252647" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -37,5 +37,5 @@
     <file name="youtube.png" crc="126262856" ref="index"/>
     <file name="soundcloud.png" crc="4153788143" ref="index"/>
   </folder>
-  <file name="index.html" crc="3964854113" seo="true" mt="1462551363542" redirect="true"/>
+  <file name="index.html" crc="4166735191" seo="true" mt="1462551774692" redirect="true"/>
 </manifest>

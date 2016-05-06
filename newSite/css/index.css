@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000A;
-	background-color: #456BB7;
+	color: #000017;
+	background-color: #705230;
 }
 
 #muse_css_mq
@@ -555,7 +555,7 @@
 #u3643
 {
 	z-index: 7;
-	min-height: 1079.6499999999996px;
+	min-height: 1079.625px;
 	background-color: #000000;
 	padding-bottom: 0px;
 }
@@ -566,26 +566,8 @@
 	margin-right: auto;
 	position: relative;
 	max-width: 1900px;
-	padding-top: 120px;
-	padding-bottom: 437px;
-}
-
-#u3650-4
-{
-	z-index: 44;
-	min-height: 46px;
-	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 18px;
-	text-transform: uppercase;
-	line-height: 29px;
-	text-align: center;
-	font-family: Courier New, Courier, monospace;
-	font-weight: normal;
-	position: relative;
-	width: 39.43%;
-	margin-left: 30.29%;
-	left: -44px;
+	padding-top: 238px;
+	padding-bottom: 377px;
 }
 
 #u4595
@@ -642,7 +624,7 @@
 #u3643-bw
 {
 	z-index: 7;
-	min-height: 1079.6499999999996px;
+	min-height: 1079.625px;
 }
 
 #u3725
@@ -1084,6 +1066,26 @@
 	margin-top: 1080px;
 }
 
+#u3650-4
+{
+	z-index: 44;
+	min-height: 46px;
+	background-color: transparent;
+	color: #FFFFFF;
+	font-size: 18px;
+	text-transform: uppercase;
+	line-height: 29px;
+	text-align: center;
+	font-family: Courier New, Courier, monospace;
+	font-weight: normal;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 121px;
+	width: 39.43%;
+	margin-left: 30.29%;
+	left: -1px;
+}
+
 #music,#about,#gallery
 {
 	position: relative;
@@ -1271,6 +1273,6 @@
 body
 {
 	position: relative;
-	min-width: 321px;
+	min-width: 800px;
 }
 
