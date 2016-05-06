@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E5;
-	background-color: #79CCAC;
+	color: #000017;
+	background-color: #705230;
 }
 
 #muse_css_mq
@@ -686,7 +686,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #DEDEDE;
-	background: #DEDEDE url("../images/20151002_214143-u5014-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/20151002_214143-u4436-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -696,7 +696,7 @@
 	height: 121px;
 	min-height: 0px;
 	margin: 0px;
-	background: #E7E7E7 url("../images/20151002_214143-u5014-r-fr.png") no-repeat center center;
+	background: #E7E7E7 url("../images/20151002_214143-u4436-r-fr.png") no-repeat center center;
 	background-color: rgba(222,222,222,0.7);
 	background-size: cover;
 }
@@ -799,7 +799,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #DEDEDE;
-	background: #DEDEDE url("../images/wash02-u4993-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/wash02-u4508-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -809,7 +809,7 @@
 	height: 121px;
 	min-height: 0px;
 	margin: 0px;
-	background: #E7E7E7 url("../images/wash02-u4993-r-fr.png") no-repeat center center;
+	background: #E7E7E7 url("../images/wash02-u4508-r-fr.png") no-repeat center center;
 	background-color: rgba(222,222,222,0.7);
 	background-size: cover;
 }
@@ -907,7 +907,7 @@
 	border-style: solid;
 	border-width: 1px;
 	border-color: #DEDEDE;
-	background: #DEDEDE url("../images/wash01-u4990-fr.jpg") no-repeat center center;
+	background: #DEDEDE url("../images/wash01-u4547-fr.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -917,7 +917,7 @@
 	height: 121px;
 	min-height: 0px;
 	margin: 0px;
-	background: #E7E7E7 url("../images/wash01-u4990-r-fr.png") no-repeat center center;
+	background: #E7E7E7 url("../images/wash01-u4547-r-fr.png") no-repeat center center;
 	background-color: rgba(222,222,222,0.7);
 	background-size: cover;
 }
