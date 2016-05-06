@@ -1,0 +1,191 @@
+.version.live /* version checker */
+{
+	color: #0000FD;
+	background-color: #F96387;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 1020px;
+	min-height: 1154px;
+	background-image: none;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #000000;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 232px;
+	padding-bottom: 197px;
+	width: 0.01px;/* should not cover content below */
+}
+
+#pamphletu2486
+{
+	z-index: 2;
+	width: 0.01px;
+	height: 165px;
+	padding-bottom: 560px;
+	margin-left: 193px;
+	position: relative;
+}
+
+#u2495
+{
+	z-index: 3;
+	width: 60px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 120px;
+}
+
+#u2496
+{
+	position: absolute;
+	width: 60px;
+	height: 45px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.ie #u2496
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u2496.PamphletThumbSelected
+{
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	width: 60px;
+	height: 45px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+.ie #u2496.PamphletThumbSelected
+{
+	background-color: #FFFFFF;
+	opacity: 0.01;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+	filter: alpha(opacity=1);
+}
+
+#u2487
+{
+	position: absolute;
+	width: 841px;
+	background-color: transparent;
+}
+
+#u2487popup
+{
+	z-index: 5;
+}
+
+#u2488
+{
+	z-index: 6;
+	width: 841px;
+	height: 725px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u2624
+{
+	z-index: 7;
+	width: 579px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 9px;
+	left: 28px;
+}
+
+#u2010-37
+{
+	z-index: 8;
+	width: 579px;
+	min-height: 46px;
+	background-color: transparent;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	line-height: 22px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u2010-2
+{
+	text-align: left;
+	font-family: maven-pro, sans-serif;
+	font-weight: 900;
+}
+
+#u2010-3,#u2010-5,#u2010-6,#u2010-8,#u2010-9,#u2010-10,#u2010-11,#u2010-12,#u2010-13,#u2010-14,#u2010-15,#u2010-16,#u2010-17,#u2010-18,#u2010-19,#u2010-20,#u2010-21,#u2010-22,#u2010-23,#u2010-24,#u2010-25,#u2010-26,#u2010-27,#u2010-28,#u2010-29,#u2010-30,#u2010-31,#u2010-32,#u2010-33
+{
+	text-align: left;
+	font-family: maven-pro, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+#u2010-34,#u2010-35
+{
+	text-align: center;
+	font-family: maven-pro, sans-serif;
+	font-weight: 900;
+}
+
+#u2627
+{
+	z-index: 45;
+	width: 348px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 159px;
+	left: 143px;
+}
+
+#u2627_img
+{
+	padding-right: 1px;
+}
+
+.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+body
+{
+	position: relative;
+	min-width: 1020px;
+}
+
