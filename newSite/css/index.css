@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F1;
-	background-color: #412A2B;
+	color: #0000F0;
+	background-color: #235A78;
 }
 
 .js body
@@ -6329,7 +6329,6 @@
 		border-width: 1px;
 		border-color: #FFFFFF;
 		background-color: #FFFFFF;
-		padding-bottom: 17px;
 	}
 
 	#menuu10415
@@ -7097,6 +7096,7 @@
 		border-width: 1px;
 		border-color: #FFFFFF;
 		background-color: #FFFFFF;
+		padding-bottom: 1px;
 	}
 
 	#menuu10415
@@ -7335,7 +7335,6 @@
 	{
 		z-index: 105;
 		min-height: 178px;
-		margin-bottom: -24px;
 	}
 
 	.AccordionPanelTab /* accordion */
@@ -8103,7 +8102,7 @@
 	{
 		z-index: 105;
 		min-height: 178px;
-		margin-bottom: -24px;
+		margin-bottom: -3px;
 	}
 
 	.AccordionPanelTab /* accordion */
