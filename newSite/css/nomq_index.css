@@ -944,7 +944,6 @@
 		z-index: 117;
 		width: 243px;
 		padding-bottom: 60px;
-		bottom: 0px;
 		margin-left: -111px;
 	}
 
@@ -966,7 +965,6 @@
 
 	#ppu3247
 	{
-		bottom: 0px;
 		margin-left: -60px;
 	}
 
@@ -1035,7 +1033,6 @@
 		z-index: 123;
 		width: 141px;
 		min-height: 18px;
-		bottom: 0px;
 		margin-left: -60px;
 	}
 
