@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F0;
-	background-color: #235A78;
+	color: #0000EF;
+	background-color: #836220;
 }
 
 .js body
@@ -6586,7 +6586,7 @@
 		background-color: transparent;
 		position: fixed;
 		top: 8px;
-		right: 26px;
+		right: 20px;
 	}
 
 	#u20630
@@ -7354,7 +7354,7 @@
 		background-color: transparent;
 		position: fixed;
 		top: 8px;
-		right: 0px;
+		right: 20px;
 	}
 
 	#u21288
@@ -7864,12 +7864,13 @@
 		border-width: 1px;
 		border-color: #FFFFFF;
 		background-color: #FFFFFF;
+		padding-bottom: 7px;
 	}
 
 	#menuu10415
 	{
 		z-index: 105;
-		min-height: 178px;
+		min-height: 168px;
 		border-width: 0px;
 		border-color: transparent;
 		background-color: transparent;
@@ -7884,7 +7885,7 @@
 	{
 		min-height: 21px;
 		background-color: transparent;
-		padding-bottom: 13px;
+		padding-bottom: 11px;
 		position: relative;
 	}
 
@@ -7907,7 +7908,7 @@
 		font-family: Courier New, Courier, monospace;
 		font-weight: bold;
 		position: relative;
-		top: 6px;
+		top: 5px;
 		left: 0.56%;
 	}
 
@@ -7923,7 +7924,7 @@
 	{
 		min-height: 21px;
 		background-color: transparent;
-		padding-bottom: 13px;
+		padding-bottom: 11px;
 		position: relative;
 	}
 
@@ -7945,7 +7946,7 @@
 		font-family: Courier New, Courier, monospace;
 		font-weight: bold;
 		position: relative;
-		top: 6px;
+		top: 5px;
 		left: 0.56%;
 	}
 
@@ -7961,7 +7962,7 @@
 	{
 		min-height: 21px;
 		background-color: transparent;
-		padding-bottom: 13px;
+		padding-bottom: 11px;
 		position: relative;
 	}
 
@@ -7983,7 +7984,7 @@
 		font-family: Courier New, Courier, monospace;
 		font-weight: bold;
 		position: relative;
-		top: 6px;
+		top: 5px;
 		left: 0.56%;
 	}
 
@@ -7999,7 +8000,7 @@
 	{
 		min-height: 21px;
 		background-color: transparent;
-		padding-bottom: 13px;
+		padding-bottom: 11px;
 		position: relative;
 	}
 
@@ -8021,7 +8022,7 @@
 		font-family: Courier New, Courier, monospace;
 		font-weight: bold;
 		position: relative;
-		top: 6px;
+		top: 5px;
 		left: 0.56%;
 	}
 
@@ -8043,7 +8044,7 @@
 	{
 		min-height: 21px;
 		background-color: transparent;
-		padding-bottom: 13px;
+		padding-bottom: 11px;
 		position: relative;
 	}
 
@@ -8072,7 +8073,7 @@
 		font-family: Courier New, Courier, monospace;
 		font-weight: bold;
 		position: relative;
-		top: 6px;
+		top: 5px;
 		left: 0.56%;
 	}
 
@@ -8101,8 +8102,7 @@
 	#menuu10415-bw
 	{
 		z-index: 105;
-		min-height: 178px;
-		margin-bottom: -3px;
+		min-height: 168px;
 	}
 
 	.AccordionPanelTab /* accordion */
@@ -8122,7 +8122,7 @@
 		background-color: transparent;
 		position: fixed;
 		top: 8px;
-		right: 0px;
+		right: 20px;
 	}
 
 	#u21288
