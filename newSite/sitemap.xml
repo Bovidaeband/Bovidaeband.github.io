@@ -2,25 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bovidae.co.uk/images/u1608_states.png</loc>
-    <lastmod>2016-05-06</lastmod>
+    <lastmod>2016-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bovidae.co.uk/images/cowsillhouettesmall.png</loc>
-    <lastmod>2016-05-06</lastmod>
+    <lastmod>2016-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bovidae.co.uk/images/mobilemenu.jpg</loc>
-    <lastmod>2016-05-06</lastmod>
+    <loc>http://bovidae.co.uk/images/logosmall.png</loc>
+    <lastmod>2016-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bovidae.co.uk/images/bitssplash.jpg</loc>
+    <lastmod>2016-05-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bovidae.co.uk/images/bitssplashsmall.jpg</loc>
+    <lastmod>2016-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bovidae.co.uk/index.html</loc>
-    <lastmod>2016-05-06</lastmod>
+    <lastmod>2016-05-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
