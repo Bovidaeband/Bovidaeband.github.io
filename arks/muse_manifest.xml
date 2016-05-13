@@ -1,0 +1,77 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="arks.com" resolutions="1x" timestamp="1463138423747">
+  <folder name="images">
+    <file name="arks_websitedesign_002_hd.jpg" crc="476681811" seo="true" ref="index"/>
+    <file name="arks_websitedesign_002_hdcontact.png" crc="259409063" seo="true" ref="index"/>
+    <file name="arks_websitedesign_003_home.jpg" crc="533427511" seo="true" ref="index"/>
+    <file name="u1522-4.png" crc="362596784" ref="index"/>
+    <file name="arks_websitedesign_003_phoneabout.jpg" crc="4050424934" seo="true" ref="index"/>
+    <file name="u1502-9.png" crc="183067193" ref="index"/>
+    <file name="u1449-4.png" crc="3765251601" ref="index"/>
+    <file name="u178-4.png" crc="459093119" ref="index"/>
+    <file name="u236-4.png" crc="4075995246" ref="index"/>
+    <file name="u215-4.png" crc="3902043538" ref="index"/>
+    <file name="mobilemenuv2.png" crc="4090830611" ref="index"/>
+    <file name="u2183-4.png" crc="235250096" ref="index"/>
+    <file name="u2313-4.png" crc="4117350576" ref="index"/>
+    <file name="u2278-4.png" crc="238870045" ref="index"/>
+    <file name="u2242-4.png" crc="10752115" ref="index"/>
+    <file name="u1522-42.png" crc="4243531785" ref="index"/>
+    <file name="u1502-92.png" crc="3776287103" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="index.css" crc="201709627" ref="index"/>
+    <file name="nomq_index.css" crc="466745070" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="homevideo">
+      <folder name="media">
+        <file name="Arks_Website_BGvideos_2016_001_homepage.mp4" crc="336318264" mt="1462709014000"/>
+        <file name="Arks_Website_BGvideos_2016_001_homepage_1080.mp4" crc="373178370" mt="1462709014000"/>
+        <file name="neeed.mp4" crc="4218054586" mt="1462709014000"/>
+        <file name="neeed2.mp4" crc="4218054586" mt="1462709014000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1462709014000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="4229900323" mt="1462709014000"/>
+        <file name="Poster.png" crc="4229900323" mt="1462709014000"/>
+      </folder>
+      <file name="homeVideo_edge.js" crc="4134394675" mt="1462709014000"/>
+      <file name="homeVideo.html" crc="4252521013" mt="1462709014000"/>
+    </folder>
+    <folder name="aboutvideo">
+      <folder name="media">
+        <file name="Arks_Website_BGvideos_2016_001_aboutpage.mp4" crc="437173674" mt="1462708944000"/>
+        <file name="Arks_Website_BGvideos_2016_001_aboutpage_1080.mp4" crc="309131891" mt="1462708944000"/>
+        <file name="Arks_Website_BGvideos_2016_001_homepage.mp4" crc="336318264" mt="1462708944000"/>
+        <file name="neeed.mp4" crc="4218054586" mt="1462708944000"/>
+        <file name="neeed2.mp4" crc="4218054586" mt="1462708944000"/>
+      </folder>
+      <folder name="edge_includes">
+        <file name="edge.6.0.0.min.js" crc="3929159849" mt="1462708944000"/>
+      </folder>
+      <folder name="images">
+        <file name="icon.png" crc="4229900323" mt="1462708944000"/>
+        <file name="Poster.png" crc="4229900323" mt="1462708944000"/>
+      </folder>
+      <file name="aboutVideo_edge.js" crc="4117559207" mt="1462708944000"/>
+      <file name="aboutVideo.html" crc="519157703" mt="1462708944000"/>
+    </folder>
+    <file name="img_6875.mov" crc="3830696507" seo="true" mt="1438331763000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="index"/>
+    <file name="jquery.musemenu.js" crc="238543590" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4075795319" seo="true" mt="1463138421821" redirect="true"/>
+</manifest>
