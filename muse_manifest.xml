@@ -1,48 +1,70 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1462650391742">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1467627452112">
   <folder name="css">
-    <file name="site_global.css" crc="4139544154"/>
-    <file name="index.css" crc="88516631" ref="index"/>
-    <file name="iefonts_index.css" crc="41119582" ref="index"/>
-    <file name="nomq_index.css" crc="229684516" ref="index"/>
+    <file name="site_global.css" crc="4077412742"/>
+    <file name="index.css" crc="267860839" ref="index"/>
+    <file name="nomq_index.css" crc="312107061" ref="index"/>
+    <file name="iefonts_index.css" crc="4116031875" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
-    <file name="museutils.js" crc="3790713428" ref="index"/>
-    <file name="whatinput.js" crc="84559013" ref="index"/>
-    <file name="jquery.musemenu.js" crc="238543590" ref="index"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3918880840" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="312386352" ref="index"/>
+    <file name="museutils.js" crc="4155826306" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="328327953" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765356681" ref="index"/>
+    <file name="jquery.watch.js" crc="117772946" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4034513494" ref="index"/>
     <file name="pie.js" crc="3827607177" ref="index"/>
-    <file name="webpro.js" crc="329496574" ref="index"/>
-    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
-    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="webpro.js" crc="4078243563" ref="index"/>
+    <file name="musewpslideshow.js" crc="4115829919" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3936724022" ref="index"/>
+    <file name="touchswipe.js" crc="157639107" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3802586038" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="musewpdisclosure.js" crc="4234230767" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3895133147" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="439107114" ref="index"/>
+    <file name="require.js" crc="228336483" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="252360425" ref="index"/>
     <file name="u1608_states.png" crc="69560596" seo="true" ref="index"/>
+    <file name="albumadleft.jpg" crc="347461115" seo="true" ref="index"/>
+    <file name="bitsad.jpg" crc="4179120460" seo="true" ref="index"/>
     <file name="cowsillhouettesmall.png" crc="375083370" seo="true" ref="index"/>
+    <file name="20151002_214143-u4436-fr.jpg" crc="365218494" ref="index"/>
+    <file name="20151002_214143-u4436-r-fr.png" crc="453767510" ref="index"/>
     <file name="20151002_214143.jpg" crc="3841328959" ref="index"/>
+    <file name="wash02-u4508-fr.jpg" crc="3831795576" ref="index"/>
+    <file name="wash02-u4508-r-fr.png" crc="4157095016" ref="index"/>
     <file name="wash02.jpg" crc="4045189913" ref="index"/>
+    <file name="wash01-u4547-fr.jpg" crc="308893909" ref="index"/>
+    <file name="wash01-u4547-r-fr.png" crc="3805372947" ref="index"/>
     <file name="wash01.jpg" crc="4247726528" ref="index"/>
+    <file name="700x700logo.jpg" crc="3887318798" seo="true" ref="index"/>
     <file name="facebook.png" crc="317936629" ref="index"/>
     <file name="vimeo.png" crc="523308923" ref="index"/>
     <file name="twitter.png" crc="4102706121" ref="index"/>
     <file name="youtube.png" crc="126262856" ref="index"/>
     <file name="soundcloud.png" crc="4153788143" ref="index"/>
-    <file name="20151002_214143-u4436-fr.jpg" crc="3839011474" ref="index"/>
-    <file name="20151002_214143-u4436-r-fr.png" crc="3809233680" ref="index"/>
-    <file name="wash02-u4508-fr.jpg" crc="4025765188" ref="index"/>
-    <file name="wash02-u4508-r-fr.png" crc="359075823" ref="index"/>
-    <file name="wash01-u4547-fr.jpg" crc="40130148" ref="index"/>
-    <file name="wash01-u4547-r-fr.png" crc="4024002668" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="bandcamp.png" crc="4060530037" ref="index"/>
+    <file name="albumadleft539x607.jpg" crc="4015058243" seo="true" ref="index"/>
+    <file name="bitsad539x607.jpg" crc="4212018707" seo="true" ref="index"/>
+    <file name="albumadleft405x455.jpg" crc="3925523712" seo="true" ref="index"/>
+    <file name="bitsad405x455.jpg" crc="124707908" seo="true" ref="index"/>
+    <file name="700x700logo295x295.jpg" crc="4179747897" seo="true" ref="index"/>
+    <file name="albumadleft375x422.jpg" crc="461623627" seo="true" ref="index"/>
+    <file name="bitsad375x422.jpg" crc="443539852" seo="true" ref="index"/>
+    <file name="700x700logo287x287.jpg" crc="82932356" seo="true" ref="index"/>
+    <file name="albumadleft346x389.jpg" crc="4136729789" seo="true" ref="index"/>
+    <file name="bitsad346x389.jpg" crc="4175251661" seo="true" ref="index"/>
+    <file name="700x700logo261x261.jpg" crc="3871277628" seo="true" ref="index"/>
+    <file name="albumadleft304x342.jpg" crc="211428919" seo="true" ref="index"/>
+    <file name="bitsad304x342.jpg" crc="4264309707" seo="true" ref="index"/>
+    <file name="700x700logo236x236.jpg" crc="250495572" seo="true" ref="index"/>
     <file name="mobilemenuv2.png" crc="4090830611" ref="index"/>
     <file name="logosmall.png" crc="92010638" seo="true" ref="index"/>
-    <file name="bitssplash.jpg" crc="4080707891" seo="true" ref="index"/>
+    <file name="albumad.jpg" crc="377333197" seo="true" ref="index"/>
+    <file name="albumadleft287x323.jpg" crc="328179097" seo="true" ref="index"/>
+    <file name="bitsad287x323.jpg" crc="513514631" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3845124221" seo="true" mt="1462650362358" redirect="true"/>
+  <file name="index.html" crc="304351534" seo="true" mt="1467627416171" redirect="true"/>
 </manifest>
