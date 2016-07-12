@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1467629185897">
+<manifest alg="2" build="2015.2.0.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1468359505413">
   <folder name="css">
     <file name="site_global.css" crc="4077412742"/>
-    <file name="index.css" crc="4077146187" ref="index"/>
-    <file name="nomq_index.css" crc="351000982" ref="index"/>
+    <file name="index.css" crc="3972609751" ref="index"/>
+    <file name="nomq_index.css" crc="404029672" ref="index"/>
     <file name="iefonts_index.css" crc="4116031875" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -66,5 +66,5 @@
     <file name="bitsad287x323.jpg" crc="513514631" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3957579391" seo="true" mt="1467629172993" redirect="true"/>
+  <file name="index.html" crc="4028154716" seo="true" mt="1468359489664" redirect="true"/>
 </manifest>
