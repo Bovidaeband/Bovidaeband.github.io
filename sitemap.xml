@@ -2,145 +2,97 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bovidae.co.uk/index.html</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/albumadleft.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/bitsad.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/cowsillhouettesmall.png</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/700x700logo.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/albumadleft539x607.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/bitsad539x607.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/albumadleft405x455.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/bitsad405x455.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/700x700logo295x295.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/albumadleft375x422.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/bitsad375x422.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
+    <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bovidae.co.uk/images/u1608_states.png</loc>
-    <lastmod>2016-07-12</lastmod>
+    <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bovidae.co.uk/images/albumadleft346x389.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
+    <loc>http://bovidae.co.uk/images/cowsillhouettesmall.png</loc>
+    <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bovidae.co.uk/images/bitsad346x389.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
+    <loc>http://bovidae.co.uk/images/700x700logo.jpg</loc>
+    <lastmod>2016-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bovidae.co.uk/images/hcss1280x720.jpg</loc>
+    <lastmod>2016-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bovidae.co.uk/images/hcss960x540.jpg</loc>
+    <lastmod>2016-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bovidae.co.uk/images/700x700logo295x295.jpg</loc>
+    <lastmod>2016-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bovidae.co.uk/images/hcss890x501.jpg</loc>
+    <lastmod>2016-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bovidae.co.uk/images/hcss.jpg</loc>
+    <lastmod>2016-07-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bovidae.co.uk/images/hcss820x462.jpg</loc>
+    <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bovidae.co.uk/images/700x700logo261x261.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
+    <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bovidae.co.uk/images/albumadleft304x342.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/bitsad304x342.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
+    <loc>http://bovidae.co.uk/images/hcss720x406.jpg</loc>
+    <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bovidae.co.uk/images/700x700logo236x236.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
+    <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bovidae.co.uk/images/logosmall.png</loc>
-    <lastmod>2016-07-12</lastmod>
+    <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bovidae.co.uk/images/albumad.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/albumadleft287x323.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bovidae.co.uk/images/bitsad287x323.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
+    <loc>http://bovidae.co.uk/images/hcss680x383.jpg</loc>
+    <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bovidae.co.uk/images/700x700logo287x287.jpg</loc>
-    <lastmod>2016-07-12</lastmod>
+    <lastmod>2016-07-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
