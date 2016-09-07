@@ -1053,7 +1053,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,167.6,142.6);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1).to({regX:83.8,regY:71.3,scaleX:1,scaleY:1,rotation:14.4,x:68.5,y:70.3},0).wait(1).to({rotation:12.5,x:70.5,y:71},0).wait(1).to({rotation:9.5,x:73.7,y:72},0).wait(1).to({rotation:5.4,x:78.1,y:73.1},0).wait(1).to({rotation:0.5,x:83.5,y:74},0).wait(1).to({rotation:-5.1,x:89.8,y:74.4},0).wait(1).to({rotation:-11.1,x:96.5,y:74.2},0).wait(1).to({rotation:-13.2,x:98.9,y:74},0).wait(1).to({rotation:-7.4,x:92.3,y:74.4},0).wait(1).to({rotation:-1.9,x:86.2,y:74.2},0).wait(1).to({rotation:3,x:80.7,y:73.6},0).wait(1).to({rotation:7.2,x:76.2,y:72.6},0).wait(1).to({rotation:10.5,x:72.6,y:71.7},0).wait(1).to({rotation:12.6,x:70.4,y:71},0).wait(1).to({rotation:13.6,x:69.3,y:70.6},0).wait(1).to({rotation:13.4,x:69.5},0).wait(1).to({rotation:12,x:71,y:71.2},0).wait(1).to({rotation:9.5,x:73.7,y:72},0).wait(1).to({rotation:5.9,x:77.6,y:73},0).wait(1).to({rotation:1.5,x:82.4,y:73.8},0).wait(1).to({rotation:-3.7,x:88.2,y:74.4},0).wait(1).to({rotation:-9.3,x:94.5,y:74.3},0).wait(1).to({rotation:-15.2,x:101,y:73.7},0).wait(1).to({rotation:-9,x:94.2,y:74.4},0).wait(1).to({rotation:-3.2,x:87.6,y:74.3},0).wait(1).to({rotation:2.2,x:81.7,y:73.7},0).wait(1).to({rotation:6.9,x:76.5,y:72.8},0).wait(1).to({rotation:10.6,x:72.5,y:71.6},0).wait(1).to({rotation:13.3,x:69.7,y:70.7},0).wait(1).to({rotation:14.7,x:68.2,y:70.1},0).wait(1).to({rotation:14.9,x:67.9},0).wait(1).to({rotation:13.9,x:69,y:70.4},0).wait(1).to({rotation:11.6,x:71.5,y:71.3},0).wait(1).to({rotation:8.2,x:75.1,y:72.4},0).wait(1).to({rotation:3.9,x:79.8,y:73.4},0).wait(1).to({rotation:-1.3,x:85.6,y:74.2},0).wait(1).to({rotation:-7,x:92,y:74.4},0).wait(1).to({rotation:-13.1,x:98.8,y:74},0).wait(1).to({rotation:-11.2,x:96.7,y:74.2},0).wait(1).to({rotation:-5.5,x:90.3,y:74.4},0).wait(1).to({rotation:-0.2,x:84.3,y:74.1},0).wait(1).to({rotation:4.5,x:79.1,y:73.3},0).wait(1).to({rotation:8.4,x:74.9,y:72.3},0).wait(1).to({rotation:11.3,x:71.8,y:71.4},0).wait(1).to({rotation:13.1,x:69.8,y:70.8},0).wait(1).to({rotation:13.7,x:69.2,y:70.6},0).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-31.1,-20.3,198.4,180.6);
+p.nominalBounds = new cjs.Rectangle(-31.1,-20.2,198.4,180.6);
 
 
 // stage content:
@@ -1083,7 +1083,7 @@ p.nominalBounds = new cjs.Rectangle(-31.1,-20.3,198.4,180.6);
 				h = 0;
 			}
 			if (h > 12) {
-				h = h/2;
+				h = (h - 12)*5;
 				Math.round(h);
 			}
 			this.hoursMC.gotoAndStop(h);
