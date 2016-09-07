@@ -1,0 +1,25 @@
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="DOC.com" resolutions="1x" timestamp="1473248139790">
+  <folder name="css">
+    <file name="site_global.css" crc="3916556066"/>
+    <file name="index.css" crc="3890998788" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <folder name="clock">
+      <folder name="images">
+        <file name="clcokBG.png" crc="438028517" mt="1473247779000"/>
+        <file name="clcokBGpngcopy.png" crc="179033517" mt="1473247779000"/>
+      </folder>
+      <file name="CLOCK.js" crc="218872141" mt="1473247779000"/>
+      <file name="CLOCK.html" crc="4043379057" mt="1473247779000"/>
+    </folder>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="169078940" ref="index"/>
+    <file name="museutils.js" crc="3851988764" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="169177150" ref="index"/>
+    <file name="jquery.watch.js" crc="3842844514" ref="index"/>
+    <file name="require.js" crc="4108833657" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4055414727" seo="true" mt="1473248106598" redirect="true"/>
+</manifest>
