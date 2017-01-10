@@ -1,26 +1,26 @@
-<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1482149671198">
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1484058202482">
   <folder name="css">
     <file name="site_global.css" crc="4289600661"/>
-    <file name="index.css" crc="4219064559" ref="index"/>
-    <file name="nomq_index.css" crc="4280181000" ref="index"/>
+    <file name="index.css" crc="3905850794" ref="index"/>
+    <file name="nomq_index.css" crc="498782324" ref="index"/>
     <file name="iefonts_index.css" crc="4116031875" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="museutils.js" crc="4148063285" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="36584860" ref="index"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="webpro.js" crc="3848665353" ref="index"/>
-    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
-    <file name="touchswipe.js" crc="404375771" ref="index"/>
-    <file name="musewpdisclosure.js" crc="4275188064" ref="index"/>
+    <file name="museconfig.js" crc="4179431180" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3765830709" ref="index"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
+    <file name="webpro.js" crc="3986320349" ref="index"/>
+    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
+    <file name="touchswipe.js" crc="221459597" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3865010892" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
+    <file name="require.js" crc="4159430777" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="252360425" ref="index"/>
@@ -57,5 +57,5 @@
     <file name="hcss680x383.jpg" crc="372689806" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="3906326484" seo="true" mt="1482149658300" redirect="true"/>
+  <file name="index.html" crc="3871349747" seo="true" mt="1484058180722" redirect="true"/>
 </manifest>
