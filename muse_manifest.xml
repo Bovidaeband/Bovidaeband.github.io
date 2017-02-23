@@ -1,61 +1,236 @@
-<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1484662668569">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1487845314105">
   <folder name="css">
     <file name="site_global.css" crc="4289600661"/>
-    <file name="index.css" crc="110772910" ref="index"/>
-    <file name="nomq_index.css" crc="498782324" ref="index"/>
+    <file name="index.css" crc="4033314375" ref="index"/>
+    <file name="nomq_index.css" crc="312370439" ref="index"/>
     <file name="iefonts_index.css" crc="4116031875" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4148063285" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4179431180" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3765830709" ref="index"/>
-    <file name="jquery.watch.js" crc="437028206" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4001026563" ref="index"/>
-    <file name="webpro.js" crc="3986320349" ref="index"/>
-    <file name="musewpslideshow.js" crc="405464237" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="305414130" ref="index"/>
-    <file name="touchswipe.js" crc="221459597" ref="index"/>
-    <file name="musewpdisclosure.js" crc="3865010892" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="musewpdisclosure.js" crc="347705465" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3991890305" ref="index"/>
-    <file name="require.js" crc="4159430777" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="252360425" ref="index"/>
-    <file name="hcss.jpg" crc="3864466699" seo="true" ref="index"/>
-    <file name="u1608_states.png" crc="69560596" seo="true" ref="index"/>
-    <file name="cowsillhouettesmall.png" crc="375083370" seo="true" ref="index"/>
+    <file name="hcss.jpg" crc="3864466699" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1608_states.png" crc="69560596" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cowsillhouettesmall.png" crc="375083370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="20151002_214143-u4436-fr.jpg" crc="4281979374" ref="index"/>
     <file name="20151002_214143-u4436-r-fr.png" crc="3809233680" ref="index"/>
-    <file name="20151002_214143.jpg" crc="3841328959" ref="index"/>
+    <file name="20151002_214143.jpg" crc="3841328959" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="wash02-u4508-fr.jpg" crc="3847140265" ref="index"/>
     <file name="wash02-u4508-r-fr.png" crc="359075823" ref="index"/>
-    <file name="wash02.jpg" crc="4045189913" ref="index"/>
+    <file name="wash02.jpg" crc="4045189913" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="wash01-u4547-fr.jpg" crc="3993038662" ref="index"/>
     <file name="wash01-u4547-r-fr.png" crc="3869517761" ref="index"/>
-    <file name="wash01.jpg" crc="4247726528" ref="index"/>
-    <file name="700x700logo.jpg" crc="3887318798" seo="true" ref="index"/>
-    <file name="facebook.png" crc="317936629" ref="index"/>
-    <file name="vimeo.png" crc="523308923" ref="index"/>
-    <file name="twitter.png" crc="4102706121" ref="index"/>
-    <file name="youtube.png" crc="126262856" ref="index"/>
-    <file name="soundcloud.png" crc="4153788143" ref="index"/>
-    <file name="bandcamp.png" crc="4060530037" ref="index"/>
-    <file name="hcss1280x720.jpg" crc="3973644374" seo="true" ref="index"/>
-    <file name="hcss960x540.jpg" crc="3955585908" seo="true" ref="index"/>
-    <file name="700x700logo295x295.jpg" crc="176825222" seo="true" ref="index"/>
-    <file name="hcss890x501.jpg" crc="340458579" seo="true" ref="index"/>
-    <file name="700x700logo287x287.jpg" crc="4187083715" seo="true" ref="index"/>
-    <file name="hcss820x462.jpg" crc="4183173678" seo="true" ref="index"/>
-    <file name="700x700logo261x261.jpg" crc="181897376" seo="true" ref="index"/>
-    <file name="hcss720x406.jpg" crc="4126002696" seo="true" ref="index"/>
-    <file name="700x700logo236x236.jpg" crc="115799033" seo="true" ref="index"/>
-    <file name="mobilemenuv2.png" crc="4090830611" ref="index"/>
-    <file name="logosmall.png" crc="92010638" seo="true" ref="index"/>
-    <file name="hcss680x383.jpg" crc="372689806" seo="true" ref="index"/>
+    <file name="wash01.jpg" crc="4247726528" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="700x700logo.jpg" crc="3887318798" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="317936629" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vimeo.png" crc="523308923" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.png" crc="4102706121" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="youtube.png" crc="126262856" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="soundcloud.png" crc="4153788143" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bandcamp.png" crc="4060530037" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hcss1280x720.jpg" crc="3973644374" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hcss960x540.jpg" crc="3955585908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="700x700logo295x295.jpg" crc="176825222" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hcss890x501.jpg" crc="340458579" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="700x700logo287x287.jpg" crc="4187083715" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hcss820x462.jpg" crc="4183173678" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="700x700logo261x261.jpg" crc="181897376" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hcss720x406.jpg" crc="4126002696" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="700x700logo236x236.jpg" crc="115799033" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mobilemenuv2.png" crc="4090830611" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logosmall.png" crc="92010638" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hcss680x383.jpg" crc="372689806" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="166835679" seo="true" mt="1484662644525" redirect="true"/>
+  <file name="index.html" crc="255743242" seo="true" mt="1487845287046" redirect="true"/>
 </manifest>
