@@ -1,26 +1,26 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1490807364398">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1505737083345">
   <folder name="css">
-    <file name="site_global.css" crc="4289600661"/>
-    <file name="index.css" crc="4243304059" ref="index"/>
-    <file name="nomq_index.css" crc="495378932" ref="index"/>
+    <file name="site_global.css" crc="3916683570"/>
+    <file name="index.css" crc="3762885314" ref="index"/>
+    <file name="nomq_index.css" crc="241335270" ref="index"/>
     <file name="iefonts_index.css" crc="4116031875" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4152223963" ref="index"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index"/>
-    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
-    <file name="webpro.js" crc="3770351119" ref="index"/>
-    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
-    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
-    <file name="touchswipe.js" crc="3912873526" ref="index"/>
-    <file name="musewpdisclosure.js" crc="347705465" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4286030528" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="musewpslideshow.js" crc="4034900702" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="528673841" ref="index"/>
+    <file name="touchswipe.js" crc="432264157" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3809204180" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
-    <file name="require.js" crc="4234670167" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4267800278" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="252360425" ref="index"/>
@@ -47,9 +47,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="20151002_214143-u4436-fr.jpg" crc="4281979374" ref="index"/>
-    <file name="20151002_214143-u4436-r-fr.png" crc="3809233680" ref="index"/>
-    <file name="20151002_214143.jpg" crc="3841328959" ref="index">
+    <file name="wash01-u4547-fr.jpg" crc="3993038662" ref="index"/>
+    <file name="wash01-u4547-r-fr.png" crc="3869517761" ref="index"/>
+    <file name="wash01.jpg" crc="4247726528" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -69,9 +69,9 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="wash01-u4547-fr.jpg" crc="3993038662" ref="index"/>
-    <file name="wash01-u4547-r-fr.png" crc="3869517761" ref="index"/>
-    <file name="wash01.jpg" crc="4247726528" ref="index">
+    <file name="20151002_214143-u4436-fr.jpg" crc="4281979374" ref="index"/>
+    <file name="20151002_214143-u4436-r-fr.png" crc="3809233680" ref="index"/>
+    <file name="20151002_214143.jpg" crc="3841328959" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -232,5 +232,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4158676552" seo="true" mt="1490807353903" redirect="true"/>
+  <file name="index.html" crc="224215784" seo="true" mt="1505737068065" redirect="true"/>
 </manifest>
