@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1505737083345">
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bovidae.co.uk" resolutions="1x" timestamp="1505994152505">
   <folder name="css">
     <file name="site_global.css" crc="3916683570"/>
-    <file name="index.css" crc="3762885314" ref="index"/>
-    <file name="nomq_index.css" crc="241335270" ref="index"/>
+    <file name="index.css" crc="6767482" ref="index"/>
+    <file name="nomq_index.css" crc="483183813" ref="index"/>
     <file name="iefonts_index.css" crc="4116031875" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -232,5 +232,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="224215784" seo="true" mt="1505737068065" redirect="true"/>
+  <file name="index.html" crc="252291179" seo="true" mt="1505994133169" redirect="true"/>
 </manifest>
